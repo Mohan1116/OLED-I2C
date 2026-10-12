@@ -2,3 +2,7 @@ Here is the project, where we can select the option we want using the edge detec
 ## Program Output
 
 ![oled Output](OLED_Working.jpg)
+
+Here is the pin configuration of CubeMX
+
+![oled Output]()
