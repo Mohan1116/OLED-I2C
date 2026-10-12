@@ -47,7 +47,6 @@
 I2C_HandleTypeDef hi2c1;
 
 /* USER CODE BEGIN PV */
-uint8_t y =2;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
